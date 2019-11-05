@@ -4,7 +4,7 @@
     android:shape="oval">
 
     <solid
-        android:color="@android:color/darker_gray"/>
+        android:color="@color/indigo"/>
 
     <size
         android:width="@dimen/image"
